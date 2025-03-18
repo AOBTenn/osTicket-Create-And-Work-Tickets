@@ -29,7 +29,7 @@ This tutorial demonstrates the creation of three mock tickets ond resolve them (
 1. Login to osTicket-vm
    osTicket-vm public ip address -> remote desktop -> enter Username/Password
 
-2. Open End User Login page -> Open Admin/Analyst login page
+2. Open admin/analyst login page http://localhost/osTicket/scp/login.php -> Open end user login page http://localhost/osTicket
 
 TICKET #1
 
