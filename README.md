@@ -25,3 +25,17 @@ This tutorial demonstrates the creation of ond working to completion of various 
 
 
 <h2> Ticket Creation and Completion Steps</h2>
+
+1. Login to osTicket-vm
+   osTicket-vm public ip address -> remote desktop -> enter Username/Password
+
+2. Open End User Login page -> Open Admin/Analyst login page
+
+3. Create a Ticket (as End User created in Previous lab)
+   End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+
+4. Observe Ticket (as agent created in Previous lab)
+   login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the ticket -> Observe the "Priority, department, Assigned To, SLA Plan"
+
+5. set Priorities (Change or Add)
+   
