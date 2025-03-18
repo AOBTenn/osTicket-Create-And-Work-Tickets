@@ -10,7 +10,7 @@ This tutorial demonstrates the creation of three mock tickets ond resolve them (
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 
 <h2>Operating Systems Used </h2>
