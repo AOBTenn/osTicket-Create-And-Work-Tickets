@@ -7,7 +7,6 @@
 This tutorial demonstrates the creation of three mock tickets ond resolve them (work to completion) as a Help Desk Analyst in the free help desk ticketing system osTicket.<br />
 
 
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
