@@ -3,10 +3,10 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - osTicket Ticket Lifecycle Examples</h1>
+<h2>Discription </h2>
+
 This tutorial demonstrates the creation of three mock tickets ond resolve them (work to completion) as a Help Desk Analyst in the free help desk ticketing system osTicket.<br />
-
-
+ 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
@@ -20,7 +20,6 @@ This tutorial demonstrates the creation of three mock tickets ond resolve them (
 
 - Azure Virtual Machine
 - osTicket v1.15.8
-
 
 
 <h2> Ticket Creation and Completion Steps</h2>
