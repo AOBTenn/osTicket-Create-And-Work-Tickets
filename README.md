@@ -83,16 +83,50 @@ Set SLA to highest level (created in Previous lab) -> Change Help topic to "Repo
 ![image](https://github.com/user-attachments/assets/6617aedc-4d2b-4ffe-a678-a038baf9238c)
 ![image](https://github.com/user-attachments/assets/6b2a6149-5a86-491e-a000-38744220eb65)
 ![image](https://github.com/user-attachments/assets/1b72da89-f608-42bf-a0f8-16a2beb0d12a)
+![image](https://github.com/user-attachments/assets/ce6d4a66-abc0-4edb-9ad9-99bbdf2a395b)
+![image](https://github.com/user-attachments/assets/aea78493-fcbd-41f0-9a3f-2a141fa0629e)
 
-6. Log out of Admin/Analyst webpage as current Agent -> Login as the other Agent 
+6. Log out of Admin/Analyst webpage as current Agent -> Login as the other Agent (Jane)
  <p> 
 </p>
 
-7. Work the ticket to completion (as the orther Agent who just logged into Analyst webpage)
+7. Work the ticket to completion (as the Agent who just logged into Analyst webpage)
  <p> 
 </p>
 
 Click the ticket -> Reassign to yourself/claim the ticket (due to this agent being a member of the Online banking team) -> Type in your observation of the suspected problem and potential solution then Post -> Type that you solved the problem with stated solution then Post-> Under Status click "Open" -> select Resolved -> Close
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/f00c6873-c62e-4ad7-9ae8-a5ae369ad7c6)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/231ed9bb-e44f-4d0c-9940-91fb7aece340)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/fda07dc7-9a8d-4538-9f38-5bf645218ee6)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/9a79e158-21c9-4d30-b203-66e540505eae)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/c088da10-43ea-4904-a562-301f9d9b2506)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/77e6c927-153b-4894-afd3-1c8ec8b7c5a9)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/8ca5cd11-ed13-4f0b-81ef-adc83e62822f)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/b530f8c7-22d4-43e8-a708-e670e3f1e35c)
  <p> 
 </p>
 
