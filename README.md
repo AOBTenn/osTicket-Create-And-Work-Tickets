@@ -136,9 +136,12 @@ TICKET #2
  <p> 
 </p>
 
-End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -> Create Rticket
  <p> 
 </p>
+
+![image](https://github.com/user-attachments/assets/ec2a1084-85f6-4226-a00e-88166994a0b2)
+![image](https://github.com/user-attachments/assets/60ae52fa-600c-4115-8ec1-cc73133f29d5)
 
 9. Observe Ticket (as agent created in Previous lab)
  <p> 
@@ -148,10 +151,18 @@ login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the 
  <p> 
 </p>
 
-10. Set Priorities (Change or Add)
-   Set SLA to lowest level (created in Previous lab) -> Change to Department *Support* (created in Previous lab) -> Assign to Agent (agent currently observing ticket)
+![image](https://github.com/user-attachments/assets/e17a9f8a-8ebf-4151-a611-098dd8c60b20)
+![image](https://github.com/user-attachments/assets/1381ffba-893e-4f35-b398-9875f272ea7d)
 
-11. Work the ticket to completion (as the current agent)
+10. Set Priorities (Change or Add)
+
+Set SLA to lowest level (created in Previous lab) -> Change to Department *Support* (created in Previous lab) -> Assign to Agent (agent currently observing ticket)
+
+![image](https://github.com/user-attachments/assets/565a376c-03bc-48f2-923a-00d80dbd4702)
+![image](https://github.com/user-attachments/assets/054fe6c5-667d-4cfd-b950-f32c9e8d4eb8)
+![image](https://github.com/user-attachments/assets/6953d01d-a67d-45e6-bcad-a227ed8be332)
+
+12. Work the ticket to completion (as the current agent)
  <p> 
 </p>
 
@@ -165,9 +176,11 @@ TICKET #3
  <p> 
 </p>
 
-End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -> Create Rticket
  <p> 
 </p>
+
+![image](https://github.com/user-attachments/assets/ec2a1084-85f6-4226-a00e-88166994a0b2)
 
 13. Observe Ticket (as agent created in Previous lab)
  <p> 
@@ -176,6 +189,8 @@ End User login page -> Open a New ticket -> Enter End User email address -> Ente
 login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the ticket -> Observe the "Priority, department, Assigned To, SLA Plan"
  <p> 
 </p>
+
+![image](https://github.com/user-attachments/assets/e17a9f8a-8ebf-4151-a611-098dd8c60b20)
 
 15. Set Priorities (Change or Add)
  <p> 
