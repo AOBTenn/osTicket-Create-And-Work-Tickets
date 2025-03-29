@@ -170,6 +170,11 @@ Click the ticket -> Type in your observation of the suspected problem and potent
  <p> 
 </p>
 
+![image](https://github.com/user-attachments/assets/ea6d67a3-78e4-4159-a534-614e3520707c)
+![image](https://github.com/user-attachments/assets/a6e43e62-fe29-40a6-ae3e-d98ea2f646d4)
+![image](https://github.com/user-attachments/assets/01fe7283-1c95-4658-b0d5-ec6b29d62250)
+![image](https://github.com/user-attachments/assets/da434f84-812c-48a5-a42a-c9c81d402e47)
+
 TICKET #3
 
 12. Create a Ticket (as End User created in Previous lab)
@@ -181,6 +186,7 @@ End User login page -> Open a New ticket -> Enter End User email address -> Ente
 </p>
 
 ![image](https://github.com/user-attachments/assets/ec2a1084-85f6-4226-a00e-88166994a0b2)
+![image](https://github.com/user-attachments/assets/82d54b77-b0f6-4710-a99e-ee8fd54e9ef6)
 
 13. Observe Ticket (as agent created in Previous lab)
  <p> 
@@ -191,6 +197,7 @@ login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the 
 </p>
 
 ![image](https://github.com/user-attachments/assets/e17a9f8a-8ebf-4151-a611-098dd8c60b20)
+![image](https://github.com/user-attachments/assets/77773d76-11a7-412e-afba-6799db57a246)
 
 15. Set Priorities (Change or Add)
  <p> 
@@ -199,6 +206,12 @@ login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the 
 Set priority to Emergency -> set SLA to mid level (created in Previous lab) -> Assign to Agent (agent currently observing ticket)
  <p> 
 </p>
+
+![image](https://github.com/user-attachments/assets/929d1aa4-1dd6-465f-9ef5-be34f2dea250)
+
+![image](https://github.com/user-attachments/assets/0e0d93a5-75ef-4319-8965-f4917c1d54fe)
+
+![image](https://github.com/user-attachments/assets/9c408fa0-6ead-49db-b967-6557b310dc8e)
 
 16. Work the ticket to completion (as the current agent)
  <p> 
