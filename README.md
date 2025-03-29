@@ -25,53 +25,116 @@ This tutorial demonstrates the creation of three mock tickets ond resolve them (
 <h2> Ticket Creation and Completion Steps</h2>
 
 1. Login to osTicket-vm
-   osTicket-vm public ip address -> remote desktop -> enter Username/Password
+ <p> 
+</p>
+
+osTicket-vm public ip address -> remote desktop -> enter Username/Password
+ <p> 
+</p>
 
 2. Open admin/analyst login page http://localhost/osTicket/scp/login.php -> Open end user login page http://localhost/osTicket
+ <p> 
+</p>
 
 TICKET #1
 
 3. Create a Ticket (as End User created in Previous lab)
-   End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+ <p> 
+</p>
+
+End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+ <p> 
+</p>
 
 4. Observe Ticket (as agent created in Previous lab)
-   login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the ticket -> Observe the "Priority, department, Assigned To, SLA Plan"
+ <p> 
+</p>
+
+login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the ticket -> Observe the "Priority, department, Assigned To, SLA Plan"
+ <p> 
+</p>
 
 5. Set Priorities (Change or Add)
-   Set SLA to highest level (created in Previous lab) -> Change Help topic to "Report a Problem: Business Critical Outage" -> Assign to a team (created in Previous lab)
+ <p> 
+</p>
+
+Set SLA to highest level (created in Previous lab) -> Change Help topic to "Report a Problem: Business Critical Outage" -> Assign to a team (created in Previous lab)
+ <p> 
+</p>
 
 6. Log out of Admin/Analyst webpage as current agent -> Login as the other Agent 
+ <p> 
+</p>
 
 7. Work the ticket to completion (as the orther agent who just logged into Analyst webpage)
-   Click the ticket -> Reassign to yourself/claim the ticket (due to this agent being a member of the Online banking team) -> Type in your observation of the suspected problem and potential solution then Post -> Type that you solved the problem with stated solution then Post-> Under Status click "Open" -> select Resolved -> Close
+ <p> 
+</p>
+
+Click the ticket -> Reassign to yourself/claim the ticket (due to this agent being a member of the Online banking team) -> Type in your observation of the suspected problem and potential solution then Post -> Type that you solved the problem with stated solution then Post-> Under Status click "Open" -> select Resolved -> Close
+ <p> 
+</p>
 
 TICKET #2
 
 8. Create a Ticket (as End User created in Previous lab)
-   End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+ <p> 
+</p>
+
+End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+ <p> 
+</p>
 
 9. Observe Ticket (as agent created in Previous lab)
-   login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the ticket -> Observe the "Priority, department, Assigned To, SLA Plan"
+ <p> 
+</p>
+
+login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the ticket -> Observe the "Priority, department, Assigned To, SLA Plan"
+ <p> 
+</p>
 
 10. Set Priorities (Change or Add)
    Set SLA to lowest level (created in Previous lab) -> Change to Department *Support* (created in Previous lab) -> Assign to Agent (agent currently observing ticket)
 
 11. Work the ticket to completion (as the current agent)
-   Click the ticket -> Type in your observation of the suspected problem and potential solution then Post -> Type that you solved the problem with stated solution then Post-> Under Status click "Open" -> select Resolved -> Type a summary of finished ticket -> Close
+ <p> 
+</p>
+
+Click the ticket -> Type in your observation of the suspected problem and potential solution then Post -> Type that you solved the problem with stated solution then Post-> Under Status click "Open" -> select Resolved -> Type a summary of finished ticket -> Close
+ <p> 
+</p>
 
 TICKET #3
 
-3. Create a Ticket (as End User created in Previous lab)
-   End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+12. Create a Ticket (as End User created in Previous lab)
+ <p> 
+</p>
 
-4. Observe Ticket (as agent created in Previous lab)
-   login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the ticket -> Observe the "Priority, department, Assigned To, SLA Plan"
+End User login page -> Open a New ticket -> Enter End User email address -> Enter End User Name -> Enter phone numder -> Select Help topic -> Enter Issuse Summary (Main focus of the ticket) -> Enter discription of the ticket -. Create Rticket
+ <p> 
+</p>
 
-5. Set Priorities (Change or Add)
-   Set priority to Emergency -> set SLA to mid level (created in Previous lab) -> Assign to Agent (agent currently observing ticket)
+13. Observe Ticket (as agent created in Previous lab)
+ <p> 
+</p>
 
-7. Work the ticket to completion (as the current agent)
-   Click the ticket -> Type in your observation of the suspected problem and potential solution then Post -> Type that you solved the problem with stated solution then Post-> Under Status click "Open" -> select Resolved -> Type a summary of finished ticket -> Close
+login to Admin/Analyst webpage -> Enter Agent Username/Password -> Click on the ticket -> Observe the "Priority, department, Assigned To, SLA Plan"
+ <p> 
+</p>
 
+15. Set Priorities (Change or Add)
+ <p> 
+</p>
+
+Set priority to Emergency -> set SLA to mid level (created in Previous lab) -> Assign to Agent (agent currently observing ticket)
+ <p> 
+</p>
+
+16. Work the ticket to completion (as the current agent)
+ <p> 
+</p>
+
+Click the ticket -> Type in your observation of the suspected problem and potential solution then Post -> Type that you solved the problem with stated solution then Post-> Under Status click "Open" -> select Resolved -> Type a summary of finished ticket -> Close
+ <p> 
+</p>
 
 Crongratulations on Successfully creating three differnt tickets and also working/resolving each ticket. Now you can practice these steps as many times you want to familurize 
