@@ -1,4 +1,4 @@
-# osTicket Ticket Lifecycle: Creation and Completion 
+# osTicket Ticket Lifecycle Creation and Completion 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
